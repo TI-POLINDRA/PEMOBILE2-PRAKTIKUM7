@@ -1,0 +1,12 @@
+{
+    "home": {
+        "title": "Selamat Datang di Aplikasi Saya",
+        "greeting": "Halo, {name}!",
+        "status": {
+            "public": "Posting Publik",
+            "private": "Posting Pribadi"
+        },
+        "last_login": "Terakhir masuk: {}",
+        "balance": "Saldo Anda: {amount}"
+    }
+}

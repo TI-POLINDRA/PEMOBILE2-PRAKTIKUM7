@@ -1,0 +1,12 @@
+{
+    "home": {
+        "title": "Welcome to My App",
+        "greeting": "Hello, {name}!",
+        "status": {
+            "public": "Public Post",
+            "private": "Private Post"
+        },
+        "last_login": "Last login: {}",
+        "balance": "Your balance: {amount}"
+    }
+}
